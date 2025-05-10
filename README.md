@@ -1,7 +1,2 @@
 # Tonal_Engine_Prototype
-Tonal Engine Prototype
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tonal Engine</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="#" property="cc:attributionName" rel="cc:attributionURL">Santiago Valencia Sarmiento</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/svalencias/Tonal_Engine_Prototype/" rel="dct:source">Tonal Engine Prototype repo</a>.
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tonal Engine</span>, creada por <a xmlns:cc="http://creativecommons.org/ns#" href="#" property="cc:attributionName" rel="cc:attributionURL">Santiago Valencia Sarmiento</a> está licenciada bajo una licencia de tipo <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Basada en un trabajo que se encuentra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/svalencias/Tonal_Engine_Prototype/" rel="dct:source">Tonal Engine Prototype repo</a>.
+Work in progress and still will take more time
